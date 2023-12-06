@@ -1,0 +1,46 @@
+li{
+    list-style: none;
+}
+
+button{
+
+    width: 80px;
+    height: 30px;
+    font-size: 15px;
+    border: none;
+    border-radius: 10px;
+    background-color: black;
+}
+.about{
+    color: red;
+    
+    
+}
+.home{
+
+    color: blue;
+}
+
+.skills{
+    color: gold;
+}
+.profile{
+    color: green;
+}
+.projects{
+    color: purple;
+}
+.contact{
+    color: white;
+}
+h1{
+    color: teal;
+    font-size: large;
+    background-color: black;
+}
+p{
+    color: purple;
+    background-color: black;
+    font-size: large;
+    font-style: italic;
+}
